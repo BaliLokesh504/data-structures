@@ -48,4 +48,4 @@ list.push("HELLO")
 list.push("GOODBYE")
 list.push("!")
 
-console.log(list)
+console.log(list);
